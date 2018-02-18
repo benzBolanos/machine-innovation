@@ -1,6 +1,11 @@
-ProjectName/bin
-ProjectName/obj
+MachineInnovation/bin/
+MachineInnovation/obj/
+!/lib
 *.user
 *.suo
 _ReSharper.*
 *.sln.cache
+*.xap
+*.vspcc
+*.vscc 
+*.vssscc
