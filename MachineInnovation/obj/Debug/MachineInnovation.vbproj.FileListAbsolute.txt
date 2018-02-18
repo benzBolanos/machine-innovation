@@ -1,0 +1,14 @@
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\bin\Debug\MachineInnovation.exe.config
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\bin\Debug\MachineInnovation.exe
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\bin\Debug\MachineInnovation.pdb
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\bin\Debug\MachineInnovation.xml
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\bin\Debug\MySql.Data.dll
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\bin\Debug\MySql.Data.xml
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.vbprojResolveAssemblyReference.cache
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.Resources.resources
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.vbproj.GenerateResource.Cache
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.exe
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.xml
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.pdb
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.frmlogin.resources
+C:\Users\benzb\Desktop\VB\MachineInnovation\MachineInnovation\obj\Debug\MachineInnovation.Dashboard.resources
